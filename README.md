@@ -5,4 +5,5 @@ The goal of the project was to create a prototype of an azimuth thruster to be u
 
 <img width="342" height="785" alt="image" src="https://github.com/user-attachments/assets/37d97a6b-46ec-4eb7-9dd3-253e9287d5aa" />
 
+Details of the project's progression can be found in MIL's mechanical team repo [here](https://github.com/uf-mil/mechanical/issues/142)
 
